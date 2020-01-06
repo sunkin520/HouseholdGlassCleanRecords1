@@ -1,4 +1,4 @@
-## Welcome to Household Glass Cleaning Records
+## Welcome to Household Glass Clean Records
 
 ![Image](icon-1024.png)
 
